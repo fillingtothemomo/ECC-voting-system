@@ -1,6 +1,6 @@
 # Code for B.S. Project on *A Comparative Study of ECC and Post-Quantum Lattice Cryptography in Electronic Voting Systems*
 
-> **Author:** Angel Sharma  ·  **Programme:** B.Tech (Mathematics)
+> **Author:** Angel Sharma  ·  **Programme:** B.S (Mathematics and Computing)
 > **Repository status:** dissertation prototype — research code, not production software.
 
 📄 **[Project presentation (PDF)](report_presentation.pdf)** — slide deck accompanying the dissertation.
