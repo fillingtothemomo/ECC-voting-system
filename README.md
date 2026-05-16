@@ -3,6 +3,8 @@
 > **Author:** Angel Sharma  ·  **Programme:** B.Tech (Mathematics)
 > **Repository status:** dissertation prototype — research code, not production software.
 
+📄 **[Project presentation (PDF)](report_presentation.pdf)** — slide deck accompanying the dissertation.
+
 This repository contains the full implementation, benchmarking harness and
 front-end demo built for the dissertation. The project compares **classical
 Elliptic-Curve Cryptography (ECC)** against **post-quantum lattice
